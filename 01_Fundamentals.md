@@ -1,0 +1,3 @@
+- [[Networking_MOC]] — Протоколи, порти, OSI. 
+- [[Linux_for_Pentest]] — Команди, права, Bash. 
+- [[Windows_Internal]] — Реєстр, сервіси, Active Directory.

@@ -1,0 +1,2 @@
+- [[HTB_Academy]] — Мої модулі.  annabujcenko@gmail.com  Tutbuvgalya_1976
+- [[TryHackMe_Paths]] — Навчальні кімнати, тоже можна поклацать,поучить
